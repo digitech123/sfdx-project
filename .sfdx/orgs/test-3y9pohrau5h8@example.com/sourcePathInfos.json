@@ -1,196 +1,406 @@
 [
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1558347547569,
-            "changeTime": 1558347547569,
+            "modifiedTime": 1558354906822,
+            "changeTime": 1558354906921,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1558347547569,
-            "changeTime": 1558347547569,
+            "modifiedTime": 1558354906823,
+            "changeTime": 1558354906823,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1558347547569,
-            "changeTime": 1558347547569,
+            "modifiedTime": 1558355267313,
+            "changeTime": 1558355267313,
             "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1558352659728,
-            "changeTime": 1558352659922,
-            "contentHash": "e2b8107157587620bbbcbdcfcab1115d7e2d9e23",
+            "modifiedTime": 1558355680670,
+            "changeTime": 1558355680748,
+            "contentHash": "fa234ba7051be2c3a760c86b3b0b63420192da77",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1558352659876,
-            "changeTime": 1558352659929,
+            "modifiedTime": 1558355267317,
+            "changeTime": 1558355267317,
             "contentHash": "046b15a995d673ba77c1902dd2e8ad4ad0794153",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1358,
-            "modifiedTime": 1558327078000,
-            "changeTime": 1558347173507,
-            "contentHash": "7b65cfda31160f1709284fb6b3fc9a7d436bb685",
+            "size": 1386,
+            "modifiedTime": 1558355267314,
+            "changeTime": 1558355267314,
+            "contentHash": "d6b39112ab412e726731adb4b41ccfe5ba8c4ea8",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 240,
-            "modifiedTime": 1558327078000,
-            "changeTime": 1558347173507,
-            "contentHash": "ad7050acab8d4bcf276da1497889aff1939bd0bf",
+            "size": 244,
+            "modifiedTime": 1558355267315,
+            "changeTime": 1558355267315,
+            "contentHash": "65b99cd4a54f960d0a58d22bd93cbf487de08ee9",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 48,
-            "modifiedTime": 1558327078000,
-            "changeTime": 1558347173507,
-            "contentHash": "adc666af29ef78519608a7c6294650e15a0bbb97",
+            "size": 50,
+            "modifiedTime": 1558355267316,
+            "changeTime": 1558355267316,
+            "contentHash": "a47c4afc8b91e092e8fefb0fb02f4fcda50cd741",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 329,
-            "modifiedTime": 1558327078000,
-            "changeTime": 1558347173507,
-            "contentHash": "b05073bc489baf2feaae5bcb2f54004c711036d9",
+            "size": 333,
+            "modifiedTime": 1558355267316,
+            "changeTime": 1558355267316,
+            "contentHash": "a55a2d686c5080ea365bfb34601226699e894b97",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1122,
-            "modifiedTime": 1558327078000,
-            "changeTime": 1558347173507,
-            "contentHash": "988b52ce6568058194e59353955353273c6683a9",
+            "size": 1152,
+            "modifiedTime": 1558355267317,
+            "changeTime": 1558355267317,
+            "contentHash": "b32b44bd59f720369c43c367d83ea26950b44900",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 509,
-            "modifiedTime": 1558327078000,
-            "changeTime": 1558347173507,
-            "contentHash": "e04279ce255420ecd8fe43067d860403e6841981",
+            "size": 525,
+            "modifiedTime": 1558355267317,
+            "changeTime": 1558355267317,
+            "contentHash": "18dba6aacf46a89360490498e78fd80047b6c2f0",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\lwc",
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\lwc",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\lwc",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1558347547569,
-            "changeTime": 1558347547569,
+            "changeTime": 1558354906905,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\Sravya\\sfdx-chan",
+        "C:\\Users\\Sravya\\sfdx-maria",
+        {
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558355267306,
+            "changeTime": 1558351420415,
+            "contentHash": "cd8d47871b874d2e3d0d67b17220854e5856d370",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1558351420415,
-            "changeTime": 1558351420415,
-            "contentHash": "cd8d47871b874d2e3d0d67b17220854e5856d370",
-            "isWorkspace": true,
+            "modifiedTime": 1558355680665,
+            "changeTime": 1558355680753,
+            "contentHash": "e512e19217572b795009ea3b274186955ac8ac47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1229,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173459,
+            "contentHash": "09357cb46543defb28760231437abbb4f568b5a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173459,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 853,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173444,
+            "contentHash": "dd8b20a2926e8de1c29cc3028ab71670e37cbc0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 517,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173444,
+            "contentHash": "01792be5934e9e4d8c66a64140ff35564cc6bf9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173459,
+            "contentHash": "1c4a18f198a2275b29a9aa497ff37ad2955fc1d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 135,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173459,
+            "contentHash": "7cc8ab34ad310f4dc5ebd9c20ef346d11856fad0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558355680735,
+            "changeTime": 1558355680756,
+            "contentHash": "1a77c22952262d9a7136cacd8d20946947d73688",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1306,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173475,
+            "contentHash": "567cc2020205b0d937486e01bebc974c8ab36262",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173475,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 302,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173475,
+            "contentHash": "05dd0f605a10bcbc4b41797bd3723a8040aa2461",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 156,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173475,
+            "contentHash": "64a39a0af6c29671af3f39a83fb623436f9333ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCard.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1800,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173475,
+            "contentHash": "acc4118104f5a53bb25a6a5a9bbb36b65e2417c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCardController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard\\PictureGalleryCardController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 551,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173459,
+            "contentHash": "686b9fbdd992437ce1496b703fdbc62251506602",
+            "isWorkspace": false,
             "isArtifactRoot": false
         }
     ]
