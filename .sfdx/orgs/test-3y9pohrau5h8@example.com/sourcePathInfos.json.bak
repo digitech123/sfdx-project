@@ -1,0 +1,197 @@
+[
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558347547569,
+            "changeTime": 1558347547569,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558347547569,
+            "changeTime": 1558347547569,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558347547569,
+            "changeTime": 1558347547569,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558352659728,
+            "changeTime": 1558352659922,
+            "contentHash": "e2b8107157587620bbbcbdcfcab1115d7e2d9e23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558352659876,
+            "changeTime": 1558352659929,
+            "contentHash": "046b15a995d673ba77c1902dd2e8ad4ad0794153",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1358,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173507,
+            "contentHash": "7b65cfda31160f1709284fb6b3fc9a7d436bb685",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173507,
+            "contentHash": "ad7050acab8d4bcf276da1497889aff1939bd0bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173507,
+            "contentHash": "adc666af29ef78519608a7c6294650e15a0bbb97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 329,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173507,
+            "contentHash": "b05073bc489baf2feaae5bcb2f54004c711036d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1122,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173507,
+            "contentHash": "988b52ce6568058194e59353955353273c6683a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 509,
+            "modifiedTime": 1558327078000,
+            "changeTime": 1558347173507,
+            "contentHash": "e04279ce255420ecd8fe43067d860403e6841981",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558347547569,
+            "changeTime": 1558347547569,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Sravya\\sfdx-chan",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Sravya\\sfdx-chan",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558351420415,
+            "changeTime": 1558351420415,
+            "contentHash": "cd8d47871b874d2e3d0d67b17220854e5856d370",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
